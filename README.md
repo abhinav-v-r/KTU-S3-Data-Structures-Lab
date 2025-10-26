@@ -89,7 +89,7 @@
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/<your-username>/KTU-S3-Data-Structures-Lab.git
+git clone https://github.com/abhinav-v-r/KTU-S3-Data-Structures-Lab.git
 ```
 ### 2. Navigate to the experiment folder
 ```bash
