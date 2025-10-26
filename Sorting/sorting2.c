@@ -29,7 +29,7 @@ void quick_sort(int start, int end){
 		int l=start,r=end;
 		while(l<r){
 			while(arr[l]<=pivot && l<=end) l++;
-			while(arr[r]>pivot && l>=start) r--;
+			while(arr[r]>pivot && r>=start) r--;
 			if(l<r){
 				int temp=arr[l];
 				arr[l]=arr[r];
